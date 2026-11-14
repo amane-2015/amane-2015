@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Amane 👋
 
-<!--
-**amane-2015/amane-2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Student from Iraq
+- 💻 Interested in Linux, Android ROMs, Hardware
+- 🐧 Built **Lindx** — a Linux distribution based on Ubuntu then Debian
 
-Here are some ideas to get you started:
+## Skills
+- Linux (Ubuntu/Debian), package management, ISO building
+- Android Root/ROM, bootloader, custom recovery
+- PC hardware assembly & troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Lindx](https://github.com/amane-2015/Lindx) — Linux distro
+
+## Contact
+- GitHub: @amane-2015
